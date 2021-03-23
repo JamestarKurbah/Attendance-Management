@@ -1,0 +1,170 @@
+body{
+	margin:0 auto;
+	padding: 0;
+	background-image:url('../image/college.png');
+	background-size:cover;
+	background-repeat: no-repeat;
+	font-family: arial;
+	height: 600px;
+}
+th{
+		color: #000;
+		font-size: 25px;
+}
+.linkpart{
+	font-family: "Maiandra GD";
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: grey;
+	width:100%;
+	height:26px;
+}
+.linkpart a{
+	color: white;
+	box-shadow: 0 5px 0 darkred;
+	font-size: 20px;
+	background-color: red;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 10PX;
+	display: block;
+	font-family: "Maiandra GD";
+}
+.linkpart a:hover{
+	color: blue;
+}
+
+.left{
+	/*background-color: #F03817;*/
+	border-radius: 10PX;
+	float: left;
+}
+.right{
+	border-radius: 10PX;
+	float:right;
+}
+.linkpart a:active {
+  box-shadow: none;
+  background-color: yellow;
+  color: blue;
+  top: 5px;
+}
+
+h2{
+	color: blue;
+	font-family: "Maiandra GD";
+	font-size: 30px;
+}
+h3{
+	margin:0;
+	color:  #ffff;
+	font-size: 20px;
+	font-family: "Maiandra GD";
+	text-align:center;
+}
+h4{
+	color: blue;
+	font-size: 20px;border-radius: 10px;
+	font-family: "Maiandra GD";
+	
+	text-align:center;
+}
+form{
+	padding-top:100px;
+	width: 600px;
+	height: 300px;
+	margin: 0 auto;
+}
+input[type='radio']{
+	width:20px;
+	height:20px;
+	text-align: right;
+}
+input[type='checkbox']{
+	width:20px;
+	height:20px;
+	text-align: right;
+}
+input{
+	width: 100%;
+	height: 30px;
+	padding: 5px 10px;
+	}
+.btn-pri{
+	color: white;
+	border-radius: 10px;
+	background-color: #0A8AC5;
+}
+.btn-del{
+	padding: 10px 0 10px;
+	color:white;
+	width: 100px;
+	border-radius: 10px;
+	background-color: red;
+}
+.btn-save{
+	color: white;
+	width:100px;
+	border-radius: 10px;
+	background-color: green/*#06BFD5*/;
+}
+a
+{	
+	text-align: center;
+	color: #00ccff;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	border-radius: 8px;
+}
+textarea{
+	width: 100%;
+	height: 70px;
+	resize: none;
+	padding: 12px 20px;
+}
+.radio-field{
+	font-color:blue;
+	background-color: white;
+}
+select{
+	width:100%;
+	height: 30px;
+	padding: 5px 10px;
+	text-align: center;
+}
+legend{
+	text-align: center;
+	font-family: "serial";
+	color:  orange;
+	font-size: 20px;
+}
+table{
+	width: 100%;
+	color: blue;
+	border-radius: 10px;
+	font-size: 20px;
+	font-family: "Maiandra GD";
+}
+label{
+	color: orange;
+	font-family: "Maiandra GD";
+	font-size: 20px;
+}
+div{
+		padding-bottom: 5px;
+}
+header{
+	padding: 5px 0 0px;
+	/*background-color: #00ccff;*/
+	font-family: "serial";
+	height: 150px;
+	text-align: center;
+}
+img{
+	float:left;
+	padding: 20px 20px 20px;
+	height: 100px;
+	width: 100px;
+}
