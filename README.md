@@ -31,10 +31,10 @@ A simple and effective **Attendance Management System** developed using **PHP** 
 
 | Screen | Description |
 |--------|-------------|
-| ![Homepage](Screen%20shot/homepage.PNG) | 🔹 Home Page with navigation and branding |
-| ![Create Session](Screen%20shot/create%20session.PNG) | 🔹 Teacher creating a session |
-| ![Save Attendance](Screen%20shot/save%20attendance.PNG) | 🔹 Marking attendance screen |
-| ![Contact Shillong](Screen%20shot/Shillong%20contact.PNG) | 🔹 Contact page for Shillong center |
+| ![Homepage](Attendance-Management/Attendance/Screen%20shot/homepage.PNG) | 🔹 Home Page with navigation and branding |
+| ![Create Session](Attendance-Management/Attendance/Screen%20shot/create%20session.PNG) | 🔹 Teacher creating a session |
+| ![Save Attendance](Attendance-Management/Attendance/Screen%20shot/save%20attendance.PNG) | 🔹 Marking attendance screen |
+| ![Contact Shillong](Attendance-Management/Attendance/Screen%20shot/Shillong%20contact.PNG) | 🔹 Contact page for Shillong center |
 
 > 📁 Screenshots are stored in the `Screen shot` folder inside the project directory.
 
